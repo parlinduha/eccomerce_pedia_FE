@@ -1,0 +1,7 @@
+{
+  "name": "eccomerce_pediaApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
